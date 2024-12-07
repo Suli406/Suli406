@@ -6,7 +6,7 @@ What I’m Learning
 
 I'm diving into various technologies related to data, including:
 - SQL: For database management and querying.
-- Python: To analyze and visualize data.
+- Python: To analyze and visualize data. I'm also learning machine learning and making models to classify data.
 
 My Goals
 
